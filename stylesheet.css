@@ -1,0 +1,196 @@
+body{
+    padding:0px;
+    margin:0px;
+}
+
+
+#uno{
+    width:40px;
+    height:40px;
+    background:linear-gradient(coral,white);
+    text-align:center;
+    cursor:pointer;
+    border-style:ridge;
+    border-radius:20px;
+    font-family:'Times New Roman', Times, serif;
+    color:grey;
+    
+}
+#uno:active{
+    background:linear-gradient(red,rgb(229, 165, 165));
+}
+#dos{
+    width:40px;
+    height:40px;
+    background:linear-gradient(coral,white);
+    text-align:center;
+    cursor:pointer;
+    border-style:ridge;
+    border-radius:20px;
+    font-family:'Times New Roman', Times, serif;
+    color:grey;
+    position: absolute;
+    top:3.5%;
+    left: 6%;
+    transform: translate(-50%, -50%);
+    
+}
+#dos:active{
+    background:linear-gradient(red,rgb(229, 165, 165));
+}
+#tres{
+    width:40px;
+    height:40px;
+    background:linear-gradient(coral,white);
+    text-align:center;
+    cursor:pointer;
+    border-style:ridge;
+    border-radius:20px;
+    font-family:'Times New Roman', Times, serif;
+    color:grey;
+    position: absolute;
+    top:3.5%;
+    left: 10.5%;
+    transform: translate(-50%, -50%);
+    
+}#tres:active{
+    background:linear-gradient(red,rgb(229, 165, 165));
+}
+#cuatro{
+    width:40px;
+    height:40px;
+    background:linear-gradient(coral,white);
+    text-align:center;
+    cursor:pointer;
+    border-style:ridge;
+    border-radius:20px;
+    font-family:'Times New Roman', Times, serif;
+    color:grey;
+     
+}#cuatro:active{
+    background:linear-gradient(red,rgb(229, 165, 165));
+}
+#cinco{
+    width:40px;
+    height:40px;
+    background:linear-gradient(coral,white);
+    text-align:center;
+    cursor:pointer;
+    border-style:ridge;
+    border-radius:20px;
+    font-family:'Times New Roman', Times, serif;
+    color:grey;
+    position: absolute;
+    top:10.4%;
+    left: 6%;
+    transform: translate(-50%, -50%);
+      
+    
+}#cinco:active{
+    background:linear-gradient(red,rgb(229, 165, 165));
+}
+#seis{
+    width:40px;
+    height:40px;
+    background:linear-gradient(coral,white);
+    text-align:center;
+    cursor:pointer;
+    border-style:ridge;
+    border-radius:20px;
+    font-family:'Times New Roman', Times, serif;
+    color:grey;
+    position: absolute;
+    top:10.4%;
+    left: 10.5%;
+    transform: translate(-50%, -50%);
+      
+      
+}#seis:active{
+    background:linear-gradient(red,rgb(229, 165, 165));
+}
+#siete{
+    width:40px;
+    height:40px;
+    background:linear-gradient(coral,white);
+    text-align:center;
+    cursor:pointer;
+    border-style:ridge;
+    border-radius:20px;
+    font-family:'Times New Roman', Times, serif;
+    color:grey;
+    
+}
+#siete:active{
+    background:linear-gradient(red,rgb(229, 165, 165));
+}
+#ocho{
+    width:40px;
+    height:40px;
+    background:linear-gradient(coral,white);
+    text-align:center;
+    cursor:pointer;
+    border-style:ridge;
+    border-radius:20px;
+    font-family:'Times New Roman', Times, serif;
+    color:grey;
+    position: absolute;
+    top:17.3%;
+    left: 6%;
+    transform: translate(-50%, -50%);
+      
+}#ocho:active
+{
+    background:linear-gradient(red,rgb(229, 165, 165));
+}
+#nueve{
+    width:40px;
+    height:40px;
+    background:linear-gradient(coral,white);
+    text-align:center;
+    cursor:pointer;
+    border-style:ridge;
+    border-radius:20px;
+    font-family:'Times New Roman', Times, serif;
+    color:grey;
+    position: absolute;
+    top:17.3%;
+    left: 10.5%;
+    transform: translate(-50%, -50%);
+       
+}
+#nueve:active{
+    background:linear-gradient(red,rgb(229, 165, 165));
+}
+#dies{
+    width:40px;
+    height:40px;
+    background:linear-gradient(coral,white);
+    text-align:center;
+    cursor:pointer;
+    border-style:ridge;
+    border-radius:20px;
+    font-family:'Times New Roman', Times, serif;
+    color:grey;
+    position: absolute;
+    top:24.2%;
+    left: 6%;
+    transform: translate(-50%, -50%);
+    
+         
+}
+#dies:active{
+    background:linear-gradient(red,rgb(229, 165, 165));
+}
+#result{
+    font-size:200px;
+    width:300px;
+    height: 250px;
+    background-color:black;
+    color:rgb(255, 255, 255);
+    text-align:center;
+    padding:0px;
+    left: 50%; 
+    position:absolute;
+    transform: translate(-50%, -50%);
+
+}
